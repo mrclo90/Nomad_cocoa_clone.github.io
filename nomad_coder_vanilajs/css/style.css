@@ -1,0 +1,9 @@
+.hidden{
+    display: none;
+}
+
+.clock {
+    font-size: 50px;
+    font-weight: 20px;
+}
+
